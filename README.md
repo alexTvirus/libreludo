@@ -57,6 +57,14 @@
 - **Cloudflare** for hosting
 
 ---
+npm install -g pnpm@latest
+
+pnpm install
+
+pnpm dev
+
+
+
 
 ## 🗺️ Routes
 
